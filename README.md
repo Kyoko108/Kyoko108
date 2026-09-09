@@ -42,8 +42,63 @@
 </p> --->
 
 
-<p align="center">
+<!---<p align="center">
   <a href="https://www.linkedin.com/in/gourabghosh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/oowarukunai.ze"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:gourab3202ghosh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p> --->
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gourabghosh/">
+    <svg width="220" height="45" viewBox="0 0 220 45" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="lg1" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#0077B5">
+            <animate attributeName="stop-color" values="#0077B5;#00C6FF;#0077B5" dur="3s" repeatCount="indefinite" />
+          </stop>
+          <stop offset="100%" stop-color="#00C6FF">
+            <animate attributeName="stop-color" values="#00C6FF;#0077B5;#00C6FF" dur="3s" repeatCount="indefinite" />
+          </stop>
+        </linearGradient>
+      </defs>
+      <rect width="220" height="45" rx="8" fill="url(#lg1)"/>
+      <text x="50%" y="50%" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="16" fill="#ffffff" text-anchor="middle" dominant-baseline="central" letter-spacing="1">LinkedIn</text>
+    </svg>
+  </a>
+  <a href="https://instagram.com/oowarukunai.ze">
+    <svg width="220" height="45" viewBox="0 0 220 45" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="ig1" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#f09433">
+            <animate attributeName="stop-color" values="#f09433;#e6683c;#dc2743;#cc2366;#bc1888;#e6683c;#f09433" dur="5s" repeatCount="indefinite" />
+          </stop>
+          <stop offset="50%" stop-color="#dc2743">
+            <animate attributeName="stop-color" values="#dc2743;#cc2366;#bc1888;#f09433;#e6683c;#dc2743" dur="5s" repeatCount="indefinite" />
+          </stop>
+          <stop offset="100%" stop-color="#bc1888">
+            <animate attributeName="stop-color" values="#bc1888;#f09433;#e6683c;#dc2743;#cc2366;#bc1888" dur="5s" repeatCount="indefinite" />
+          </stop>
+        </linearGradient>
+      </defs>
+      <rect width="220" height="45" rx="8" fill="url(#ig1)"/>
+      <text x="50%" y="50%" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="16" fill="#ffffff" text-anchor="middle" dominant-baseline="central" letter-spacing="1">Instagram</text>
+    </svg>
+  </a>
+  <a href="mailto:gourab3202ghosh@gmail.com">
+    <svg width="220" height="45" viewBox="0 0 220 45" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="em1" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#D14836">
+            <animate attributeName="stop-color" values="#D14836;#FF8A65;#D14836" dur="3s" repeatCount="indefinite" />
+          </stop>
+          <stop offset="100%" stop-color="#FF8A65">
+            <animate attributeName="stop-color" values="#FF8A65;#D14836;#FF8A65" dur="3s" repeatCount="indefinite" />
+          </stop>
+        </linearGradient>
+      </defs>
+      <rect width="220" height="45" rx="8" fill="url(#em1)"/>
+      <text x="50%" y="50%" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="16" fill="#ffffff" text-anchor="middle" dominant-baseline="central" letter-spacing="1">Email</text>
+    </svg>
+  </a>
 </p>
