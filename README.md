@@ -105,6 +105,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gourabghosh/"><img src="badges/linkedin-badge.svg" alt="LinkedIn"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/oowarukunai.ze"><img src="badges/instagram-badge.svg" alt="Instagram"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:gourab3202ghosh@gmail.com"><img src="badges/email-badge.svg" alt="Email"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/oowarukunai.ze"><img src="badges/instagram-badge.svg" alt="Instagram"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:gourab3202ghosh@gmail.com"><img src="badges/email-badge.svg" alt="Email"></a>
 </p>
