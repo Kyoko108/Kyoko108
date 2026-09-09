@@ -49,7 +49,7 @@
 </p> --->
 
 
-<p align="center">
+<!---<p align="center">
   <a href="https://www.linkedin.com/in/gourabghosh/">
     <svg width="220" height="45" viewBox="0 0 220 45" xmlns="http://www.w3.org/2000/svg">
       <defs>
@@ -101,4 +101,10 @@
       <text x="50%" y="50%" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="16" fill="#ffffff" text-anchor="middle" dominant-baseline="central" letter-spacing="1">Email</text>
     </svg>
   </a>
+</p> --->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gourabghosh/"><img src="badges/linkedin-badge.svg" alt="LinkedIn"></a>
+  <a href="https://instagram.com/oowarukunai.ze"><img src="badges/instagram-badge.svg" alt="Instagram"></a>
+  <a href="mailto:gourab3202ghosh@gmail.com"><img src="badges/email-badge.svg" alt="Email"></a>
 </p>
