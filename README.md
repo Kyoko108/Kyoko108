@@ -29,7 +29,7 @@
 | **[TimeDomainGating](https://github.com/Kyoko108/TimeDomainGating)** | Time-domain gating for S-parameter / VNA data processing | MATLAB |
 | **[Bitcoin Price Prediction](https://github.com/Kyoko108/Bitcoin-Price-Prediction)** | LSTM-based price prediction model, published at IEEE C3IT 2024 | Python, ML |
 
-> Pin these repos on your profile so they show above this README section.
+<!-- > Pin these repos on your profile so they show above this README section. --> 
 
 ---
 
